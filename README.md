@@ -10,3 +10,24 @@ The script follows the article, "[The First Single Photon Sources and Single Pho
 Figure 1. single-photon source spectrum and wave-packet
 
 <img width="572" alt="Screenshot 2023-10-18 at 6 31 20 PM" src="https://github.com/szuyul/Simulation-of-single-photon-source-in-Quantum-Optics/assets/41300262/157d4284-9e1c-4006-98eb-f11a2d33ed79">
+
+
+Figure 2. time trace of photon emission by single-photon and classical light sources
+
+
+
+
+Figure 3. histogram of photon counts in 100 repeated photon collections within a certain time duration
+
+
+
+
+Figure 4. profiling wave-packet based on heralded and direct detection
+
+
+
+
+Figure 5. single-photon Mach-Zehnder interferometry (output 1 and 2 from the 2nd beam splitter)
+
+
+
