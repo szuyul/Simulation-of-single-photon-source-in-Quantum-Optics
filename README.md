@@ -14,20 +14,21 @@ Figure 1. single-photon source spectrum and wave-packet
 
 Figure 2. time trace of photon emission by single-photon and classical light sources
 
-
+<img width="547" alt="Screenshot 2023-10-18 at 6 31 43 PM" src="https://github.com/szuyul/Simulation-of-single-photon-source-in-Quantum-Optics/assets/41300262/df599b7d-e8b0-4736-afb6-38f97c356abe">
 
 
 Figure 3. histogram of photon counts in 100 repeated photon collections within a certain time duration
 
-
+<img width="579" alt="Screenshot 2023-10-18 at 6 32 10 PM" src="https://github.com/szuyul/Simulation-of-single-photon-source-in-Quantum-Optics/assets/41300262/9049a069-1d16-428c-99e6-a507a25e34e4">
 
 
 Figure 4. profiling wave-packet based on heralded and direct detection
 
-
+<img width="746" alt="Screenshot 2023-10-18 at 6 31 51 PM" src="https://github.com/szuyul/Simulation-of-single-photon-source-in-Quantum-Optics/assets/41300262/cc2df9e9-85c3-48ab-8e8d-2934322b2449">
 
 
 Figure 5. single-photon Mach-Zehnder interferometry (output 1 and 2 from the 2nd beam splitter)
 
+<img width="761" alt="Screenshot 2023-10-18 at 6 37 05 PM" src="https://github.com/szuyul/Simulation-of-single-photon-source-in-Quantum-Optics/assets/41300262/0871d65c-ca45-4e12-a07e-0ba53f07dd01">
 
 
