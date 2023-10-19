@@ -7,5 +7,6 @@ The script follows the article, "[The First Single Photon Sources and Single Pho
 5. anticorrelation experiment
 6. single-photon interference experiment
 
-Figure 1.
+Figure 1. single-photon source spectrum and wave-packet
+
 <img width="572" alt="Screenshot 2023-10-18 at 6 31 20 PM" src="https://github.com/szuyul/Simulation-of-single-photon-source-in-Quantum-Optics/assets/41300262/157d4284-9e1c-4006-98eb-f11a2d33ed79">
